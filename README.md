@@ -11,3 +11,4 @@ This is an AI-powered platform built with the MERN stack to help users practice 
 - **Frontend**: React, Zustand, WebRTC, FFmpeg
 - **Backend**: Node.js, Express.js, MongoDB
 - **AI/ML**: OpenAI API, TensorFlow.js
+
